@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Github Desktop slide!"
 ---
-Moving to Stage 
+Now using Github Desktop 
 Use the left arrow to go back!
